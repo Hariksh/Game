@@ -2,14 +2,14 @@ import { useState, useRef } from 'react'
 import './App.css'
 
 const symbols = [
-  'WhatsApp Image 2025-03-29 at 20.03.25.jpeg',
-  'WhatsApp Image 2025-03-29 at 20.04.16.jpeg',
-  'WhatsApp Image 2025-03-29 at 20.04.45.jpeg',
-  'WhatsApp Image 2025-03-29 at 20.05.07.jpeg',
-  'WhatsApp Image 2025-03-29 at 20.05.33.jpeg',
-  'WhatsApp Image 2025-03-29 at 20.05.52.jpeg',
-  'antman.webp',
-  'black_panther.webp'
+  'https://i.imgur.com/E9t6a8R.jpeg',
+  'https://i.imgur.com/4AqE23q.jpeg',
+  'https://i.imgur.com/K72zPbh.jpeg',
+  'https://i.imgur.com/1y2q4uy.jpeg',
+  'https://i.imgur.com/H2NyaAJ.jpeg',
+  'https://i.imgur.com/XPSt6Zs.jpeg',
+  'https://i.imgur.com/IBZKkmH.jpeg',
+  'https://i.imgur.com/2tYqxxl.jpeg'
 ]
 
 const funnyMessages = [
